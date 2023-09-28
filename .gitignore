@@ -1,5 +1,7 @@
 bin
 obj
-*.csptoj
+*.csproj
 *.zip
-
+.gitignore
+node_modules
+net7.0
